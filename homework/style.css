@@ -1,0 +1,149 @@
+@import url(reset.css);
+
+body {
+    font-family: Montserrat;
+    color: #41292c;
+    background-color: #efe9e1;
+    font-weight: 400;
+    
+}
+
+.container {
+    width: 680px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(images/1677657648_bogatyr-club-p-kofe-s-penoi-foni-instagram-43\ copy.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Joanne Script BH';
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.header h1 {
+    font-family: "Soli Px W01 Bold";
+    font-size: 50px;
+    padding: 20px 0 0 0;
+}
+
+.roasting {
+    width: 540px;
+    /* text-align: center; */
+    background-color: #fff;
+    margin: 20px auto 0 auto;
+    padding: 10px 20px 10px 20px;
+
+}
+
+.roasting__title {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 10px;
+    /* letter-spacing: 0.01px; */
+    
+}
+
+.roasting__subtitle {
+    text-align: center;
+    font-weight: normal;
+    font-size: 8px;
+    margin: 0 0 25px 0;
+    /* line-height: 15px; */
+}
+
+.spectrum {
+    color: #fff;
+
+    /* padding: -50px 0 0 0; */
+    background-color: green;
+    /* margin: 10px; */
+}
+
+.text-block {
+    padding: 15px 0 0 15px;
+}
+
+.text-block p {
+    
+    font-weight: normal;
+    font-size: 8px;
+    padding-bottom: 8px;
+    /* line-height: 15px; */
+}
+
+.text-block h4 {
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 8px;
+
+}
+
+.text-block h5 {
+    font-weight: 400;
+    font-size: 10px;
+    margin-bottom: 8px;
+
+}
+
+
+.green {
+    background-color: #99c39a;
+}
+
+.light {
+    background-color: #a96342;
+}
+
+.city {
+    background-color: #96582e;
+}
+
+.vienna {
+    background-color: #af4040;
+
+}
+
+.italian {
+    background-color: #191919;
+}
+
+.list {
+    padding: 0 90px;
+    margin-bottom: 100px;
+}
+
+.list__item {
+    
+}
+
+.list__item h2 {
+    margin-top: 50px;
+    font-size: 12px;
+    color: #e3bb97;
+    text-transform: uppercase;
+}
+
+.list__item p {
+    font-size: 8px;
+}
+
+.list__item * {
+    margin-bottom: 5px;
+}
+
+.list__item a {
+    display: block;
+    font-size: 5px;
+    text-transform: uppercase;
+    color: #486b55;
+    font-weight: 900;
+    border-bottom: 1px solid #e3bb97;
+    padding: 0 0 20px 0;
+    
+}
